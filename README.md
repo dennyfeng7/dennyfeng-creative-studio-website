@@ -1,3 +1,3 @@
-# Website Animation Clone/Test
+# Denny's Creative Studio - Website Animation
 
 ## Hi :-)
