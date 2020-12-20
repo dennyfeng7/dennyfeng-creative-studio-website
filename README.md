@@ -1,3 +1,3 @@
 # Denny's Creative Studio - Website Animation
 
-## Hi :-)
+## Check it out at dennyfeng.com
